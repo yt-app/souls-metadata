@@ -1,0 +1,215 @@
+{
+  "chests": [
+    {
+      "id": 0,
+      "name": "Red Chest",
+      "description": "Red Chest of LUCIAN SOULS",
+      "image": "https://arweave.net/ayQj7clgh6RpnyX06dFgsEIrLLouXoXDrpMuPYXSDEI"
+    },
+    {
+      "id": 1,
+      "name": "Green Chest",
+      "description": "Green Chest of LUCIAN SOULS",
+      "image": "https://arweave.net/6FkpQYaskMkUxsVPGDsmZUW7vDyRPAzJwWghI_lF7j0"
+    },
+    {
+      "id": 2,
+      "name": "Blue Chest",
+      "description": "Blue Chest of LUCIAN SOULS",
+      "image": "https://arweave.net/IYW1RqRkad6RyoZ6gnbSf6gdcPuWu4-jclEeNR2WgFQ"
+    },
+    {
+      "id": 3,
+      "name": "Purple Chest",
+      "description": "Purple Chest of LUCIAN SOULS",
+      "image": "https://arweave.net/a_WNXElLjrdHOh_muw7pbGISSCTGu8UfmW8YRNlmW-M"
+    }
+  ],
+  "nfts": [
+    {
+      "id": 0,
+      "name": "Soul",
+      "description": "Soul of LUCIAN SOULS",
+      "image": "https://arweave.net/FRPf2SOo3DrWBjeT9dfpgj7ItBBjNET6YyENdeLa7dA",
+      "properties":  {
+        "Type": "Soul"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Ingot",
+      "description": "Material of LUCIAN SOULS",
+      "image": "https://arweave.net/tUfIKJlQBHBP0rnIKPsjO89KD_7Vv34yr1iLDCUWErs",
+      "properties": {
+        "Type": "Material"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Demon Horn",
+      "description": "Material of LUCIAN SOULS",
+      "image": "https://arweave.net/tUfIKJlQBHBP0rnIKPsjO89KD_7Vv34yr1iLDCUWErs",
+      "properties": {
+        "Type": "Material"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Dragon Scale",
+      "description": "Material of LUCIAN SOULS",
+      "image": "https://arweave.net/tUfIKJlQBHBP0rnIKPsjO89KD_7Vv34yr1iLDCUWErs",
+      "properties": {
+        "Type": "Material"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Degen Tail",
+      "description": "Material of LUCIAN SOULS",
+      "image": "https://arweave.net/tUfIKJlQBHBP0rnIKPsjO89KD_7Vv34yr1iLDCUWErs",
+      "properties": {
+        "Type": "Material"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Dark Orb",
+      "description": "Material of LUCIAN SOULS",
+      "image": "https://arweave.net/tUfIKJlQBHBP0rnIKPsjO89KD_7Vv34yr1iLDCUWErs",
+      "properties": {
+        "Type": "Material"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Summoning Gem",
+      "description": "Use to Summoning Monster of LUCIAN SOULS",
+      "image": "https://arweave.net/mYqBdeprLB-ZmZUro8rvXfiDfOekod1TkzNTR-8w-Lc",
+      "properties": {
+        "Type": "Summoning Gem"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Mini Demon",
+      "description": "Monster of LUCIAN SOULS",
+      "image": "https://arweave.net/Puc-FB0rD2yWQJBlaxlmUBkhqsVb7m0nzvJwykaJwcE",
+      "properties": {
+        "Type": "Monster"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Baby Dragon",
+      "description": "Monster of LUCIAN SOULS",
+      "image": "https://arweave.net/J6aAtZdHoNA63pRAIZQVXwDun9PcFmV4eFOV4bJh4To",
+      "properties": {
+        "Type": "Monster"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Degen Seeker",
+      "description": "Monster of LUCIAN SOULS",
+      "image": "https://arweave.net/pe9q1i_4csxR_FKR99WOWuGzy-D9kiO8iiyBFjLxoAA",
+      "properties": {
+        "Type": "Monster"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Elite Demon",
+      "description": "Monster of LUCIAN SOULS",
+      "image": "https://arweave.net/SDbcDnXrAd1YuNe301tp_HnvzrMn_4CsSXz4YXAVNJU",
+      "properties": {
+        "Type": "Monster"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Dragon Kid",
+      "description": "Monster of LUCIAN SOULS",
+      "image": "https://arweave.net/dKr-Nl1UHkdTEx_qTRC9mcXXw6ytFL447ObvH_kR7dI",
+      "properties": {
+        "Type": "Monster"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Degen Charmer",
+      "description": "Monster of LUCIAN SOULS",
+      "image": "https://arweave.net/2GUoBGV44qYwJt6petfrJWWBjiwHuF2Pq7TM2PsMJmw",
+      "properties": {
+        "Type": "Monster"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Satan",
+      "description": "Monster of LUCIAN SOULS",
+      "image": "https://arweave.net/w1ZlKvQElZRlc7MgoHSqWT-e5pCXmjoZg7fH1gnUcts",
+      "properties": {
+        "Type": "Monster"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Heavy Dragon",
+      "description": "Monster of LUCIAN SOULS",
+      "image": "https://arweave.net/pHYlzfNdTPQmthsWwJRVaC91mQKsQTPP868inaCwAOk",
+      "properties": {
+        "Type": "Monster"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Degen Witch",
+      "description": "Monster of LUCIAN SOULS",
+      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
+      "properties": 
+      {
+        "Type": "Monster"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Iron Sword",
+      "description": "Sword of LUCIAN SOULS",
+      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
+      "properties": 
+      {
+        "Type": "Sword"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Buster Sword",
+      "description": "Sword of LUCIAN SOULS",
+      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
+      "properties": 
+      {
+        "Type": "Sword"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Blood Sword",
+      "description": "Sword of LUCIAN SOULS",
+      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
+      "properties": 
+      {
+        "Type": "Sword"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Dainsleif",
+      "description": "Sword of LUCIAN SOULS",
+      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
+      "properties": 
+      {
+        "Type": "Sword"
+      }
+    }
+  ]
+}
