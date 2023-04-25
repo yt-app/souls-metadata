@@ -25,6 +25,48 @@
       "image": "https://arweave.net/a_WNXElLjrdHOh_muw7pbGISSCTGu8UfmW8YRNlmW-M"
     }
   ],
+   "swords": [
+   {
+      "id": 0,
+      "name": "Iron Sword",
+      "description": "Sword of LUCIAN SOULS",
+      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
+      "properties": 
+      {
+        "Type": "Sword"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Buster Sword",
+      "description": "Sword of LUCIAN SOULS",
+      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
+      "properties": 
+      {
+        "Type": "Sword"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Blood Sword",
+      "description": "Sword of LUCIAN SOULS",
+      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
+      "properties": 
+      {
+        "Type": "Sword"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Dainsleif",
+      "description": "Sword of LUCIAN SOULS",
+      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
+      "properties": 
+      {
+        "Type": "Sword"
+      }
+    }
+  ],
   "nfts": [
     {
       "id": 0,
@@ -169,46 +211,6 @@
       "properties": 
       {
         "Type": "Monster"
-      }
-    },
-    {
-      "id": 16,
-      "name": "Iron Sword",
-      "description": "Sword of LUCIAN SOULS",
-      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
-      "properties": 
-      {
-        "Type": "Sword"
-      }
-    },
-    {
-      "id": 17,
-      "name": "Buster Sword",
-      "description": "Sword of LUCIAN SOULS",
-      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
-      "properties": 
-      {
-        "Type": "Sword"
-      }
-    },
-    {
-      "id": 18,
-      "name": "Blood Sword",
-      "description": "Sword of LUCIAN SOULS",
-      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
-      "properties": 
-      {
-        "Type": "Sword"
-      }
-    },
-    {
-      "id": 19,
-      "name": "Dainsleif",
-      "description": "Sword of LUCIAN SOULS",
-      "image": "https://arweave.net/M4mxdAqVtUgXzWvvpAYDLMAIv_GnWoU3YY64UKFrENI",
-      "properties": 
-      {
-        "Type": "Sword"
       }
     }
   ]
