@@ -28,6 +28,16 @@
    "swords": [
    {
       "id": 0,
+      "name": "Gold",
+      "description": "Gold of LUCIAN SOULS",
+      "image": "https://arweave.net/WmY4crAJfdVcKIUrLO9uCGn8uwT_C4LggbAm5m2tvYI",
+      "properties": 
+      {
+        "Type": "Gold"
+      }
+    },
+   {
+      "id": 1,
       "name": "Iron Sword",
       "description": "Sword of LUCIAN SOULS",
       "image": "https://arweave.net/WmY4crAJfdVcKIUrLO9uCGn8uwT_C4LggbAm5m2tvYI",
@@ -37,7 +47,7 @@
       }
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Buster Sword",
       "description": "Sword of LUCIAN SOULS",
       "image": "https://arweave.net/hIsZyGNOWZvIyFfRqP2mvk_BWPCqo-4AiJhrHjDOn9g",
@@ -47,7 +57,7 @@
       }
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Blood Sword",
       "description": "Sword of LUCIAN SOULS",
       "image": "https://arweave.net/cb2wxTmgdkyVqtGZOUTvwB6MOUaK6DjjjHevrkJPJPk",
@@ -57,7 +67,7 @@
       }
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Dainsleif",
       "description": "Sword of LUCIAN SOULS",
       "image": "https://arweave.net/sWctqOrMxexipEXRXjXTzOVJO0b5-h1hjKnypUHAMKY",
